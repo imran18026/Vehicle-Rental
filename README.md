@@ -1,6 +1,6 @@
 # Vehicle Rental Management API
 
-**Live URL**: [To be deployed]
+**Live URL**: https://vehicle-orcin.vercel.app/
 
 ## Features
 
