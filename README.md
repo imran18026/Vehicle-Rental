@@ -54,8 +54,11 @@ The API will be available at `https://vehicle-orcin.vercel.app/`
 ### API Endpoints
 
 **Auth**: `/api/v1/auth/signup`, `/api/v1/auth/signin`
+
 **Vehicles**: `/api/v1/vehicles` (GET, POST, PUT, DELETE)
+
 **Users**: `/api/v1/users` (GET, PUT, DELETE)
+
 **Bookings**: `/api/v1/bookings` (GET, POST, PUT)
 
 All protected routes require: `Authorization: Bearer <token>`
